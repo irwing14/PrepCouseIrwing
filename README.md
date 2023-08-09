@@ -1,2 +1,1 @@
-# PrepCouseIrwing
-Este es un repositorio del modulo 2 del prepcourser de Irwing
+Este proyecto es una prueba para clonar github a mi escritorio local
